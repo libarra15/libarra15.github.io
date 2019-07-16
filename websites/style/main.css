@@ -4,17 +4,19 @@ body{
 h1{
   font-size:48px;
   color:purple;
-  font: b;
-  text-align: center;
+  font:b;
+  text-align:center;
   }
 h2{
   font-size:25px;
   font:b;
   font:i;
+  text-align:center;
   }
 p{
-    font-size:25px;
-    font:b;
+  font-size:25px;
+  font:b;
+  text-align:center;
   }
 #para1{
   color:powderblue;
